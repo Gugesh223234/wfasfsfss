@@ -1,0 +1,56 @@
+header{
+    background-color: green;
+    height: 400px;
+    width: 100%;
+    background-image:url(https://s0.rbk.ru/v6_top_pics/media/img/2/84/347223560904842.webp) ;
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+    
+}
+
+
+h1{
+    text-align: center;
+    
+}
+
+h2{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+
+}
+
+
+
+.lert{
+    width: 60%;
+    height: 600px;;
+    background-color: rgb(77, 73, 73);
+    float: left;
+    color: aliceblue;
+    
+}
+
+.righr{
+    width: 40%;
+    height: 600px;
+    float:right ;
+    background-size: cover;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMUbYq3hjRYDs9-cpNREGYppdwl9BlavxuOsgeSd_AhI6Xpsul);
+}
+main{
+    background-color: black;
+}
+
+footer{
+    height: 500px;
+    width:100% ;
+    background-color: black;
+}
+
+.p_left{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMUbYq3hjRYDs9-cpNREGYppdwl9BlavxuOsgeSd_AhI6Xpsul);
+    height:200px ;
+    width:30%;
+}
